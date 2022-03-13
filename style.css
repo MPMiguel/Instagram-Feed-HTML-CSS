@@ -1,0 +1,30 @@
+body{
+    background: grey
+;}
+header{ background: white; 
+padding:10px
+;}
+
+header h1{
+  margin: 0;
+}
+
+img{
+    width: 100%;
+}
+#post{     
+    background-color: white;
+}
+
+div #post p, div #post h2{
+    padding: 8px;
+}
+.container{
+    width: 600px;
+    margin: auto;
+}
+span{
+    font-size:15PX;
+    color: rgb(160, 151, 151);
+    float: right;
+}
